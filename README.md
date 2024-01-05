@@ -6,3 +6,4 @@ Technologies used:
 HTML
 CSS
 JS
+ReactJS
